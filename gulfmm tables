@@ -1,0 +1,2 @@
+1.check the user role id , it should not be zero. check in user_master5622 ,check if he is active, check if he is he is not removed.if zero then update it.
+2.tables are code request,code generate,check if he is user_credit_search
